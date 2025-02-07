@@ -1,0 +1,14 @@
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\HefteGunleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\HefteGunleri.AssemblyInfoInputs.cache
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\HefteGunleri.AssemblyInfo.cs
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\HefteGunleri.csproj.CoreCompileInputs.cache
+C:\MyProjects\HefteGunleri\HefteGunleri\bin\Debug\net8.0\HefteGunleri.exe
+C:\MyProjects\HefteGunleri\HefteGunleri\bin\Debug\net8.0\HefteGunleri.deps.json
+C:\MyProjects\HefteGunleri\HefteGunleri\bin\Debug\net8.0\HefteGunleri.runtimeconfig.json
+C:\MyProjects\HefteGunleri\HefteGunleri\bin\Debug\net8.0\HefteGunleri.dll
+C:\MyProjects\HefteGunleri\HefteGunleri\bin\Debug\net8.0\HefteGunleri.pdb
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\HefteGunleri.dll
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\refint\HefteGunleri.dll
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\HefteGunleri.pdb
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\HefteGunleri.genruntimeconfig.cache
+C:\MyProjects\HefteGunleri\HefteGunleri\obj\Debug\net8.0\ref\HefteGunleri.dll
