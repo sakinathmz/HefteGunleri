@@ -1,6 +1,4 @@
-﻿// hefte gunleri
-// salam
-using System.ComponentModel.Design;
+﻿using System.ComponentModel.Design;
 bool davam = true;
 while (davam)
 {
