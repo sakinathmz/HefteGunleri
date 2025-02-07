@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.Design;
+﻿// salam
+using System.ComponentModel.Design;
 bool davam = true;
 while (davam)
 {
