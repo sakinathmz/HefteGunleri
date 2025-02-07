@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.Design;
+﻿// hefte gunleri
+using System.ComponentModel.Design;
 bool davam = true;
 while (davam)
 {
